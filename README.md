@@ -1,13 +1,18 @@
-## Hello there 👋
+<table>
+  <tr>
+    <td>
+      <h1>Hello there, I'm Fatema Binte Islam! 👋</h1>
+      <p>Computer Science & Engineering student at <b>American International University of Bangladesh (AIUB).
+      Exploring the world. Learning and turning ideas into code.</p>
+    </td>
+    <td>
+      <img src="https://github.com/fatemaneha/fatemaneha/blob/main/np9f_leld_220705.jpg" width="250" alt="Fatema Coding Illustration" />
+    </td>
+  </tr>
+</table>
+------------------------------------------------------------------------------------------------------------------------------------------
 
-# I'm Fatema Binte Islam! 
-
-Computer Science & Engineering student at **American International University of Bangladesh (AIUB)** | Exploring the world.Learning and turning ideas into code.
-
----
-
-### 🛠️ Languages & Tools
-Learned some languages:
+### 🛠️ Languages & Interest
 
 <p align="left">
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> </a>
@@ -23,25 +28,25 @@ Learned some languages:
 </p>
 
 
----
+------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🔭 Projects
 
-Here are some highlights of the projects I've done and also working on:
+Here are some projects I've done and also working on:
 
 #### Data Science & Nlp
-* **[Dhaka Tribune Scraping & Classification](#)** (R Language): A project utilizing R to scrape news data and perform classification using the XGBoost machine learning algorithm.
-* **[Mini SciBERT Project](#)** (Python): An exploration into Natural Language Processing (NLP) using the SciBERT model for scientific text tasks.
+* **[Dhaka Tribune Scraping & Classification](#)** (R Language)
+* **[Mini SciBERT Project](#)** (Python)
 
 #### Software Development & Databases
-* **[Pharmacy Management System](#)** (C#): A desktop application designed to manage pharmacy inventory and operations.
-* **[Pet Home](#)** (Java): A Java-based application focusing on object-oriented programming principles.
-* **[Pet Home Management](#)** (Database): The backend database design and implementation for managing pet home data effectively.
+* **[Pharmacy Management System](#)** (C#)
+* **[Pet Home](#)** (Java)
+* **[Pet Home Management](#)** (Database)
 
 #### Computer Graphics
-* **[Solar System Simulation](#)** (C++ / OpenGL / GLUT): A graphical project rendering a 3D simulation of the solar system.
+* **[Solar System ](#)** (C++ / OpenGL / GLUT): A graphical project of the solar system.
 
----
+------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fatemaneha&show_icons=true&theme=radical&hide_border=true)
