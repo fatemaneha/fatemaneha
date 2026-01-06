@@ -41,7 +41,6 @@ Here are some projects I've done and also working on:
 #### Software Development & Databases
 * **[Pharmacy Management System](#)** (C#)
 * **[Pet Home](#)** (Java)
-* **[Pet Home Management](#)** (Database)
 
 #### Computer Graphics
 * **[Solar System ](#)** (C++ / OpenGL / GLUT): A graphical project of the solar system.
